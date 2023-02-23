@@ -1,0 +1,7 @@
+.
+├── atualiza_docker.sh
+├── config.sh
+├── estrutura_diretorio.txt
+└── testes_python.sh
+
+0 directories, 4 files

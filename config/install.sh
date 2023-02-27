@@ -21,7 +21,6 @@ sudo chmod 746 ./install-bashtop.sh
 sudo chmod 746 ./install-docker.sh
 ./install-docker.sh
 
-sudo chmod 746 ./install-go.sh
-./install-go.sh
+sudo chmod 746 ./../commit_git.sh
 
 sudo reboot

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Install Tree"
+echo "Install Bashtop"
 sleep 10
 
 sudo apt update
@@ -8,7 +8,7 @@ sudo apt -y install bashtop
 
 echo ""
 echo "------------------------------------------------------------------------------------------"
-echo "Tree Instaled"
+echo "Bashtop Installed"
 
 echo ""
 echo "------------------------------------------------------------------------------------------"

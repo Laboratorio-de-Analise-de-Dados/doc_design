@@ -7,4 +7,4 @@ The present work seeks to quantify the impact on the transmission of information
 # Teaser:
 Is it possible to improve the dissemination of the knowledge contained in scientific information? To answer this question, in our article, 6 scientific images were worked with design concepts. These were then presented to an audience of 472 participants that answered quantitative questions about them. The participants of the research reported that the images worked by the design had an important gain in the transmission of information, when compared with the original images, worked only by the researchers. Additionally, fewer participants judged that the designer's images needed additional description and more participants stated that they experimented a new data source. This shows that it is possible to improve the transmission of information in scientific dissemination, using design concepts.
 
-<img href="./img/graphic-abbstract.jpg" />
+<img src="./img/graphic-abbstract.jpg" />
